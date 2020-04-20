@@ -174,7 +174,7 @@ public class WeatherServlet extends HttpServlet {
 	}
 
 	/**
-	 * Returns the weather information for a given city
+	 * Returns the weather information for a given city    
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
